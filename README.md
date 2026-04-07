@@ -1,6 +1,6 @@
 # AI Trainer Portfolio
 
-This portfolio showcases hands-on projects demonstrating skills in AI training, data annotation, evaluation, and response improvement.
+This portfolio reflects hands-on projects demonstrating skills in AI training, data annotation, evaluation, and response improvement.
 
 ---
 
